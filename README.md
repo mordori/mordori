@@ -8,6 +8,8 @@ My name is Mika and I am excited about everything related to 3D art and greatly 
 📌 Actively deepening my expertise in C/C++, Unreal Engine, and HLSL.
 
 🧩 Planning to explore DirectX and learn Houdini in the future.
+
+⬅ Feel free to connect and contact me on my socials.
 <!--
 **mordori/mordori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
