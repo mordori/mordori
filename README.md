@@ -1,5 +1,5 @@
 ## Hi 👋
-My name is Mika and I am excited about everything related to 3D art and greatly enjoy programming games!
+My name is `Mika` and I am excited about everything related to 3D art and greatly enjoy programming games!
 
 🌱 I’m currently studying at Hive Helsinki, looking to broaden my skill set to software development and graphics programming.
 
@@ -9,7 +9,7 @@ My name is Mika and I am excited about everything related to 3D art and greatly 
 
 🧩 Planning to explore DirectX and learn Houdini in the future.
 
-⬅ Feel free to connect and contact me on my socials.
+###### ⬅ Feel free to connect and contact me on my socials.
 <!--
 **mordori/mordori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
