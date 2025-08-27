@@ -13,17 +13,28 @@ My name is `Mika` and I am excited about everything related to 3D art and greatl
 
 ### 🚀 Featured Project
 
-### [FdF](https://github.com/mordori/FdF)
 
-Simple wireframe model software renderer.
-- Implements a software-based geometry pipeline similar to that of modern GPUs
-- Uses the Liang-Barsky algorithm for line clipping and Bresenham’s algorithm for rasterizing the lines
-- Follows an OpenGL-style right-handed coordinate convention, where Y is up, X is to the right, and in view space the camera looks down -Z
-- Includes an orbiting camera controller that emulates the navigation style of 3D modeling software like Blender
 
-<p align="center">
-  <img src="doc/42.gif" alt="Demo" />
-</p>
+<table>
+<tr>
+<td>
+
+## <p align="middle">[FdF](https://github.com/mordori/FdF)
+
+**<p align="middle">Simple wireframe model software renderer.**  
+- Implements a software-based geometry pipeline similar to that of modern GPUs  
+- Uses the Liang-Barsky algorithm for line clipping and Bresenham’s algorithm for rasterizing the lines  
+- Follows an OpenGL-style right-handed coordinate convention, where Y is up, X is to the right, and in view space the camera looks down -Z  
+- Includes an orbiting camera controller that emulates the navigation style of 3D modeling software like Blender  
+
+</td>
+<td>
+
+<img src="doc/42.gif" alt="Demo" width="300"/>
+
+</td>
+</tr>
+</table>
 <!--
 **mordori/mordori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
