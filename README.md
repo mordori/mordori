@@ -11,7 +11,7 @@ My name is `Mika` and I am excited about everything related to 3D art and greatl
 
 ###### ⬅ Feel free to connect and contact me on my socials.
 
-### 🚀 Featured Project
+### 🚀 Featured project
 
 
 
