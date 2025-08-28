@@ -29,7 +29,7 @@ My name is **Mika** and I am excited about everything related to 3D graphics and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
-###### Feel free to connect and contact me on
+###### Feel free to connect me on
 
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mika.ylipentti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mika-yli-pentti/)
