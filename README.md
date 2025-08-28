@@ -1,5 +1,5 @@
 ## Hi 👋
-My name is `Mika` and I am excited about everything related to 3D graphics and greatly enjoy programming games!
+My name is **Mika** and I am excited about everything related to 3D graphics and greatly enjoy programming games!
 
 🌱 I’m currently studying at Hive Helsinki, looking to broaden my skill set to software development and graphics programming.
 
@@ -9,11 +9,37 @@ My name is `Mika` and I am excited about everything related to 3D graphics and g
 
 🧩 Planning to explore DirectX and learn Houdini in the future.
 
-###### ⬅ Feel free to connect and contact me on my socials.
+###### Tech stack
+
+
+
+          
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+###### Feel free to connect and contact me on
+
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mika.ylipentti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mika-yli-pentti/)
+[![ArtStation](https://img.shields.io/badge/ArtStation-%23202020?style=for-the-badge&logo=artstation&logoColor=%2300a8ff)](https://www.artstation.com/mikaylipentti)
+
 
 ### 🚀 Featured project
-
-
 
 <table>
 <tr>
@@ -21,10 +47,10 @@ My name is `Mika` and I am excited about everything related to 3D graphics and g
 
 ## &nbsp;&nbsp;[FdF](https://github.com/mordori/FdF)
 
-**&nbsp;&nbsp;&nbsp;Simple wireframe model software renderer.**  
-- Implements a software-based geometry pipeline similar to that of modern GPUs  
-- Uses the Liang-Barsky algorithm for line clipping and Bresenham’s algorithm for rasterizing the lines  
-- Includes an orbiting camera controller that emulates the navigation style of 3D modeling software like Blender  
+**&nbsp;&nbsp;&nbsp;Simple wireframe model software renderer.**
+- Implements a software-based geometry pipeline similar to that of modern GPUs
+- Uses the Liang-Barsky algorithm for line clipping and Bresenham’s algorithm for rasterizing the lines
+- Includes an orbiting camera controller that emulates the navigation style of 3D modeling software like Blender
 
 <br>
 
@@ -36,17 +62,3 @@ My name is `Mika` and I am excited about everything related to 3D graphics and g
 </td>
 </tr>
 </table>
-<!--
-**mordori/mordori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
