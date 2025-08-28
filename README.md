@@ -1,4 +1,4 @@
-<img src="doc/Untitled4.gif" alt="Demo"/>
+<img src="doc/Untitled5.gif" alt="Demo"/>
 
 Hi! My name is **Mika** and I am excited about everything related to 3D graphics and greatly enjoy programming games!
 
