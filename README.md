@@ -1,4 +1,4 @@
-<img src="doc/Untitled6.gif" alt="Demo" width="724" height="141"/>
+# Mika Yli-Pentti
 
 Hi! My name is **Mika** and I am excited about everything related to 3D graphics and greatly enjoy programming games!
 
