@@ -77,7 +77,7 @@ Hi! My name is **Mika** and I am excited about everything related to 3D graphics
 </td>
 <td>
 
-<img src="doc/42.gif" alt="Demo" width="300"/>
+<img src="doc/asdasd.gif" alt="Demo" width="300"/>
 
 </td>
 </tr>
