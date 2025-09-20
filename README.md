@@ -37,7 +37,7 @@ Hi! My name is **Mika** and I am excited about everything related to 3D graphics
 [![ArtStation](https://img.shields.io/badge/ArtStation-%23202020?style=for-the-badge&logo=artstation&logoColor=%2300a8ff)](https://www.artstation.com/mikaylipentti)
 
 
-### 🚀 Featured project
+### 🚀 Featured projects
 
 <table>
 <tr>
@@ -45,10 +45,32 @@ Hi! My name is **Mika** and I am excited about everything related to 3D graphics
 
 ## &nbsp;&nbsp;[FdF](https://github.com/mordori/FdF)
 
-**&nbsp;&nbsp;&nbsp;Simple wireframe model software renderer.**
+&nbsp;&nbsp;&nbsp;**Simple wireframe model software renderer.**
 - Implements a software-based geometry pipeline similar to that of modern GPUs
 - Uses the Liang-Barsky algorithm for line clipping and Bresenham’s algorithm for rasterizing the lines
 - Includes an orbiting camera controller that emulates the navigation style of 3D modeling software like Blender
+
+<br>
+
+</td>
+<td>
+
+<img src="doc/42.gif" alt="Demo" width="300"/>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+## &nbsp;&nbsp;[Philosophers](https://github.com/mordori/Philosophers)
+
+&nbsp;&nbsp;&nbsp;**Dining philosophers with threads and mutex.**
+- Resources shared between the threads are locked with mutex to avoid data races
+- Main thread handles the monitoring of the philosophers' status
+- A dedicated logging thread decoupled from the status monitoring handles the printing of the states of the philosophers
 
 <br>
 
