@@ -70,7 +70,7 @@ Hi! My name is **Mika** and I am excited about everything related to 3D graphics
 &nbsp;&nbsp;&nbsp;**Dining philosophers with threads and mutex.**
 - Resources shared between the threads are locked with mutex to avoid data races
 - Main thread handles the monitoring of the philosophers' status
-- A dedicated logging thread decoupled from the status monitoring handles the printing of the states of the philosophers
+- A dedicated logging thread decoupled from the status monitoring handles the printing of the philosophers' states
 
 <br>
 
