@@ -2,6 +2,8 @@
 
 Hi! My name is **Mika** and I am excited about everything related to 3D graphics and greatly enjoy programming games!
 
+<br>
+
 🌱 I’m currently studying at Hive Helsinki, looking to broaden my skill set to software development and graphics programming.
 
 💎 Proficient in C#, Unity, and various 3D digital content creation software.
