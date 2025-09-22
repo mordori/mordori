@@ -1,7 +1,6 @@
 # Mika Yli-Pentti
 
 Hi! My name is **Mika** and I am excited about everything related to 3D graphics and greatly enjoy programming games!
-
 <br>
 
 - I’m currently studying at Hive Helsinki, looking to broaden my skill set to software development and graphics programming.
