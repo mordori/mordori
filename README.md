@@ -10,6 +10,8 @@ Hi! My name is **Mika** and I am excited about everything related to 3D graphics
 
 🧩 Planning to explore DirectX and learn Houdini in the future.
 
+Thank you for being here.
+
 ###### Tech stack
 
 <p>
