@@ -14,7 +14,7 @@ Hi! My name is **Mika** and I am excited about everything related to 3D graphics
 
 <br>
 Thank you for being here.
-<br>
+
 
 ###### Tech stack
 
