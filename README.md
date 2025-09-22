@@ -13,8 +13,14 @@ Hi! My name is **Mika** and I am excited about everything related to 3D graphics
 🧩 Planning to explore DirectX and learn Houdini in the future.
 
 <br>
-Thank you for being here.
 
+My expertise extends across multiple facets of game production, ensuring that art and code work seamlessly together to create a visually stunning and immersive gaming experience.
+
+With my background in game development, I can help bring your creative vision to life and contribute to its success.
+
+<br>
+
+Thank you for being here.
 
 ###### Tech stack
 
