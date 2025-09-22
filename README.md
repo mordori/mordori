@@ -1,6 +1,6 @@
 # Mika Yli-Pentti
 
-Hi! My name is **Mika** and I am excited about everything related to 3D graphics and greatly enjoy programming games!
+Hi! My name is Mika and I'm passionate about all aspects of 3D graphics and deeply enjoy programming games!
 <br>
 
 - I’m currently studying at Hive Helsinki, looking to broaden my skill set to software development and graphics programming.
@@ -10,7 +10,7 @@ Hi! My name is **Mika** and I am excited about everything related to 3D graphics
 - Actively deepening my expertise in C/C++, Unreal Engine, and HLSL.
 
 - Planning to explore DirectX and learn Houdini in the future.
-
+  
 <br>
 
 My expertise extends across multiple facets of game production, ensuring that art and code work seamlessly together to create a visually stunning and immersive gaming experience.
