@@ -29,8 +29,6 @@ Thank you for being here.
 
 <p>
   <img src="https://skillicons.dev/icons?i=unreal,unity,blender,ps" alt="C" width="200" height="200"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" alt="Maya" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="3DS Max" width="40" height="40"/>
 </p>
 
 ###### Feel free to connect me on
