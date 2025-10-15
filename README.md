@@ -24,11 +24,7 @@ Thank you for being here.
 ###### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,github,git,firebase" alt="C" width="350" height="350"/>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=unreal,unity,blender,ps" alt="C" width="200" height="200"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unreal,unity,blender,ps,java,github,git,firebase" alt="C" width="550" height="550"/>
 </p>
 
 ###### Feel free to connect me on
