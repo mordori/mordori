@@ -35,7 +35,6 @@ Thank you for being here.
 
 
 
-
 ### 🎮 Published game
 
 <table>
@@ -44,16 +43,19 @@ Thank you for being here.
 
 ## &nbsp;&nbsp;[Sidestep Storm](https://play.google.com/store/apps/details?id=com.IdeaGamesStudio.ProjectBorgov)
 
-&nbsp;&nbsp;&nbsp;**Fast-paced endless runner.**
-- Solo-developed with Unity and C#
-- FMOD is used to dispatch audio. Graphics are made with Blender and Photoshop
-- Basic analytics are integrated with Firebase. Implements IAP and Ad networks are configured via AdMob
+&nbsp;&nbsp;&nbsp;**Solo-developed endless runner built with Unity (C#).**
+- Powered by FMOD for dynamic audio
+- Graphics created with Blender and Photoshop
+- Basic analytics integrated via Firebase
+- Features In-App Purchases (IAP) and AdMob integration
 - Available on [Google Play](https://play.google.com/store/apps/details?id=com.IdeaGamesStudio.ProjectBorgov)
-- Coming soon to iOS with a content update!
+- Coming soon* to iOS with a content update!
 
 <br>
 
+
 </td>
+
 <td>
 
 <img src="doc/sidestepgif.gif" alt="Demo" width="300"/>
