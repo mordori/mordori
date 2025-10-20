@@ -33,7 +33,7 @@ Thank you for being here.
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mika-yli-pentti/)
 [![ArtStation](https://img.shields.io/badge/ArtStation-%23202020?style=for-the-badge&logo=artstation&logoColor=%2300a8ff)](https://www.artstation.com/mikaylipentti)
 
-
+<br>
 
 ### 🎮 Published game
 
@@ -65,7 +65,7 @@ Thank you for being here.
 </td>
 </tr>
 </table>
-
+<br>
 
 ### 🚀 Featured projects
 
