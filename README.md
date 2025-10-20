@@ -34,6 +34,35 @@ Thank you for being here.
 [![ArtStation](https://img.shields.io/badge/ArtStation-%23202020?style=for-the-badge&logo=artstation&logoColor=%2300a8ff)](https://www.artstation.com/mikaylipentti)
 
 
+
+
+### 🎮 Published game
+
+<table>
+<tr>
+<td>
+
+## &nbsp;&nbsp;[Sidestep Storm](https://play.google.com/store/apps/details?id=com.IdeaGamesStudio.ProjectBorgov)
+
+&nbsp;&nbsp;&nbsp;**Fast-paced endless runner.**
+- Solo-developed with Unity and C#
+- FMOD is used to dispatch audio. Graphics are made with Blender and Photoshop
+- Basic analytics are integrated with Firebase. Implements IAP and Ad networks are configured via AdMob
+- Available on [Google Play](https://play.google.com/store/apps/details?id=com.IdeaGamesStudio.ProjectBorgov)
+- Coming soon to iOS with a content update!
+
+<br>
+
+</td>
+<td>
+
+<img src="doc/sidestepgif.gif" alt="Demo" width="300"/>
+
+</td>
+</tr>
+</table>
+
+
 ### 🚀 Featured projects
 
 <table>
