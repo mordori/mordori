@@ -48,6 +48,8 @@ Thank you for being here.
 - Graphics created with Blender and Photoshop
 - Basic analytics integrated via Firebase
 - Features In-App Purchases (IAP) and AdMob integration
+<p></p>
+
 - Available on [Google Play](https://play.google.com/store/apps/details?id=com.IdeaGamesStudio.ProjectBorgov)
 - Coming soon* to iOS with a content update!
 
