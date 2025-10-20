@@ -41,7 +41,7 @@ Thank you for being here.
 <tr>
 <td>
 
-## &nbsp;&nbsp;[Sidestep Storm](https://play.google.com/store/apps/details?id=com.IdeaGamesStudio.ProjectBorgov)
+## &nbsp;&nbsp;Sidestep Storm
 
 &nbsp;&nbsp;&nbsp;**Solo-developed endless runner built with Unity (C#).**
 - Powered by FMOD for dynamic audio
