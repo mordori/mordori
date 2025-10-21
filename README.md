@@ -44,7 +44,7 @@ Thank you for being here.
 ## &nbsp;&nbsp;Sidestep Storm
 
 &nbsp;&nbsp;&nbsp;**Solo-developed endless runner built with Unity (C#).**
-- Powered by FMOD for dynamic audio
+- Implemented dynamic audio using FMOD
 - Graphics created with Blender and Photoshop
 - Basic analytics integrated via Firebase
 - Features In-App Purchases (IAP) and AdMob integration
