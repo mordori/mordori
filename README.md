@@ -9,7 +9,7 @@ Hi! My name is Mika and I'm passionate about all aspects of 3D graphics and deep
 
 - Actively deepening my expertise in C/C++, Unreal Engine, and HLSL.
 
-- Planning to explore DirectX and learn Houdini in the future.
+- Planning to explore OpenGL/DirectX and learn Houdini in the future.
   
 <br>
 
