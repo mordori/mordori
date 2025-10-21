@@ -45,7 +45,7 @@ Thank you for being here.
 
 &nbsp;&nbsp;&nbsp;**Solo-developed endless runner built with Unity (C#).**
 - Implemented dynamic audio using FMOD
-- Graphics created with Blender and Photoshop
+- Created graphics with Blender and Photoshop
 - Basic analytics integrated via Firebase
 - Features In-App Purchases (IAP) and AdMob integration
 <p></p>
