@@ -43,7 +43,7 @@ Thank you for being here.
 
 ## &nbsp;&nbsp;Sidestep Storm
 
-&nbsp;&nbsp;&nbsp;**Solo-developed endless runner built with Unity (C#).**
+&nbsp;&nbsp;&nbsp;**Solo-developed endless runner built with Unity and C#.**
 - Built a stateful kinematic character controller, custom shaders for stylized materials, robust cloud-synced data saving, and more.
 - Designed and implemented systems for virtual currencies, power-ups, and quests through a process of repeated testing and iteration.
 - Developed dynamic audio with FMOD, designed graphics in Blender and Photoshop, integrated Firebase analytics, and implemented monetization features including in-app purchases and AdMob.
