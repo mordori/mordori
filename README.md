@@ -1,6 +1,6 @@
 # Mika Yli-Pentti
 
-Hi! My name is Mika and I'm passionate about all aspects of 3D graphics and deeply enjoy programming games!
+Hi! My name is Mika and I'm passionate about 3D graphics and games programming!
 <br>
 
 - I’m currently studying at [Hive Helsinki](https://github.com/mordori/Hive-Helsinki), looking to broaden my skill set to software development and graphics programming.
