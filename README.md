@@ -88,7 +88,7 @@ Thank you for being here.
 </td>
 <td>
 
-<img src="https://github.com/mordori/miniRT/blob/main/doc/rt.png" alt="Demo" width="470"/>
+<img src="https://github.com/mordori/miniRT/blob/main/doc/rt.png" alt="Demo" width="460"/>
 
 </td>
 </tr>
