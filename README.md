@@ -42,7 +42,7 @@ Thank you for being here.
 
 ## &nbsp;&nbsp;Sidestep Storm
 
-&nbsp;&nbsp;&nbsp;**Solo-developed endless runner built with Unity and C#.**
+&nbsp;&nbsp;&nbsp;**Endless runner built with Unity and C#.**
 - Built all gameplay mechanics, stylised visuals, dynamic audio, and cloud-synced save data
 - Integrated game services, analytics, ads, and in-app purchases
 - Designed systems for virtual currencies, power-ups, and rewards through repeated testing and iteration
