@@ -35,7 +35,7 @@ Thank you for being here.
 
 <br>
 
-### 🎮 Published game
+## 🎮 Published game
 
 <table>
 <tr>
@@ -65,9 +65,35 @@ Thank you for being here.
 </td>
 </tr>
 </table>
+
+
+
 <br>
 
-### 🚀 Featured projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td>
+
+## &nbsp;&nbsp;[miniRT](https://github.com/mordori/miniRT)
+
+&nbsp;&nbsp;&nbsp;**High-Performance CPU Path Tracer with Monte Carlo 
+&nbsp;&nbsp;&nbsp;Integration.**
+- Monte Carlo integration with importance sampling for Global Illumination
+- BVH acceleration structure for rapid intersection testing
+- Optimised custom memory alignment for SIMD execution, balancing code readability with raw performance
+
+<br>
+
+</td>
+<td>
+
+<img src="https://github.com/mordori/miniRT/blob/main/doc/rt.png" alt="Demo" width="570"/>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -85,30 +111,11 @@ Thank you for being here.
 </td>
 <td>
 
-<img src="doc/42.gif" alt="Demo" width="300"/>
+<img src="https://github.com/mordori/FdF/blob/main/doc/42.gif" alt="Demo" width="300"/>
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td>
-
-## &nbsp;&nbsp;[Philosophers](https://github.com/mordori/Philosophers)
-
-&nbsp;&nbsp;&nbsp;**Dining philosophers with threads and mutex.**
-- Resources shared between the threads are locked with mutex to avoid data races
-- Main thread handles the monitoring of the philosophers' status
-- Dedicated logging thread decoupled from the status monitoring handles the printing of the philosophers' states
 
 <br>
-
-</td>
-<td>
-
-<img src="doc/asdasd.gif" alt="Demo" width="300"/>
-
-</td>
-</tr>
-</table>
