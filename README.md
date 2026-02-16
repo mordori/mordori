@@ -43,7 +43,7 @@ Thank you for being here.
 ## &nbsp;&nbsp;Sidestep Storm
 
 &nbsp;&nbsp;&nbsp;**Endless runner built with Unity and C#.**
-- Built all gameplay mechanics, stylised visuals, dynamic audio, and cloud-synced save data
+- Built gameplay mechanics, stylised visuals, dynamic audio, and cloud-synced save data
 - Integrated game services, analytics, ads, and in-app purchases
 - Designed systems for virtual currencies, power-ups, and rewards through repeated testing and iteration
 
@@ -83,7 +83,7 @@ Thank you for being here.
 </td>
 <td>
 
-<img src="https://github.com/mordori/miniRT/blob/main/doc/rt.png" alt="Demo" width="460"/>
+<img src="https://github.com/mordori/miniRT/blob/rendering/doc/ball.gif" alt="Demo" width="300"/>
 
 </td>
 </tr>
