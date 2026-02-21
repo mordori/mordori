@@ -77,7 +77,7 @@ Thank you for being here.
 - Monte Carlo integration with multiple importance sampling for Global Illumination
 - BVH acceleration structure for rapid intersection testing
 - Optimised custom memory alignment for SIMD execution, balancing code readability with raw performance
-- PBR material model featuring Disney diffuse and Cook-Torrance specular lobes with VNDF for visible microfacet normals.
+- PBR material model featuring Disney diffuse and Cook-Torrance specular lobes with VNDF for visible microfacet normals
 
 <br>
 
