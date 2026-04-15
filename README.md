@@ -7,25 +7,14 @@ Hi! My name is Mika and I'm passionate about 3D graphics and games programming!
 
 - Proficient in C#, Unity, and various 3D digital content creation software.
 
-- Actively deepening my expertise in C/C++, Unreal Engine, and HLSL.
+- Actively deepening my expertise in C++, Unreal Engine, and HLSL.
 
-- Planning to explore DirectX/CUDA and learn Houdini in the near future.
+- Planning to explore Vulkan/CUDA and learn Houdini in the near future.
   
 <br>
 
-My expertise extends across multiple facets of game production, ensuring that art and code work seamlessly together to create a visually stunning and immersive gaming experience.
-
-With my background in game development, I can help bring your creative vision to life and contribute to its success.
-
+Thank you for being here 😊
 <br>
-
-Thank you for being here.
-
-###### Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unreal,unity,blender,ps,java,github,git,firebase" alt="C" width="550" height="550"/>
-</p>
 
 ###### Feel free to connect me on
 
