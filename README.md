@@ -60,7 +60,7 @@ Thank you for being here 😊
 <tr>
 <td>
 
-## &nbsp;&nbsp;[miniRT](https://github.com/mordori/miniRT)
+## &nbsp;&nbsp;[miniPT](https://github.com/mordori/miniPT)
 
 &nbsp;&nbsp;&nbsp;**High-Performance CPU Path Tracer with Monte Carlo Integration.**
 - Monte Carlo integration with multiple importance sampling for Global Illumination
@@ -73,7 +73,7 @@ Thank you for being here 😊
 </td>
 <td>
 
-<img src="https://github.com/mordori/miniRT/blob/rendering/doc/ball.gif" alt="Demo" width="300"/>
+<img src="https://github.com/mordori/miniPT/blob/main/doc/ball.gif" alt="Demo" width="300"/>
 
 </td>
 </tr>
